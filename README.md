@@ -80,7 +80,7 @@ Priyadarshini Singh
 Bibhutendu Paikaray
   Designer
 
-GitHub Account- https://github.com/PratyushPoddar07/nutrinerds.git
+GitHub Account- https://github.com/Bibhutendu/Docify-AI-Doctor.git
 
 ## Call to Action
 - Make sure to consider how you could take this first concept to the next phase!

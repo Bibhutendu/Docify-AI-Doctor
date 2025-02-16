@@ -26,7 +26,7 @@ To install DociFy, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/PratyushPoddar07/nutrinerds.git
+git clone https://github.com/Bibhutendu/Docify-AI-Doctor.git
 
 2. start to install
 ```

@@ -176,8 +176,8 @@ if page == "Home":
     #     st.header("Chat with our food detection bot")
     #     user_input = st.text_input("Ask our bot about your food")
     #     if user_input:
-    #         api_url = "https://api.gemini.com/v1/food/detect"
-    #         api_key = "AIzaSyCDdVJJrGLSKFN56TaPXEu_y6Vauvs7IKg"
+    #         api_url = "enter your api url"
+    #         api_key = "enter your api key"
     #         headers = {"Authorization": f"Bearer {api_key}"}
     #         data = json.dumps({"image": image_data, "text": user_input})
     #         response = requests.post(api_url, headers=headers, json=data)
